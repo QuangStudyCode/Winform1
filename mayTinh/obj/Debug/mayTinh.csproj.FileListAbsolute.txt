@@ -1,0 +1,11 @@
+F:\GĐ2-2022\Winform\winform1\mayTinh\bin\Debug\mayTinh.exe.config
+F:\GĐ2-2022\Winform\winform1\mayTinh\bin\Debug\mayTinh.exe
+F:\GĐ2-2022\Winform\winform1\mayTinh\bin\Debug\mayTinh.pdb
+F:\GĐ2-2022\Winform\winform1\mayTinh\obj\Debug\mayTinh.csproj.AssemblyReference.cache
+F:\GĐ2-2022\Winform\winform1\mayTinh\obj\Debug\mayTinh.csproj.SuggestedBindingRedirects.cache
+F:\GĐ2-2022\Winform\winform1\mayTinh\obj\Debug\mayTinh.Form1.resources
+F:\GĐ2-2022\Winform\winform1\mayTinh\obj\Debug\mayTinh.Properties.Resources.resources
+F:\GĐ2-2022\Winform\winform1\mayTinh\obj\Debug\mayTinh.csproj.GenerateResource.cache
+F:\GĐ2-2022\Winform\winform1\mayTinh\obj\Debug\mayTinh.csproj.CoreCompileInputs.cache
+F:\GĐ2-2022\Winform\winform1\mayTinh\obj\Debug\mayTinh.exe
+F:\GĐ2-2022\Winform\winform1\mayTinh\obj\Debug\mayTinh.pdb

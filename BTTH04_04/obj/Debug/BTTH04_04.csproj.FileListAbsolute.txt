@@ -1,0 +1,11 @@
+F:\GĐ2-2022\Winform\winform1\BTTH04_04\bin\Debug\BTTH04_04.exe.config
+F:\GĐ2-2022\Winform\winform1\BTTH04_04\bin\Debug\BTTH04_04.exe
+F:\GĐ2-2022\Winform\winform1\BTTH04_04\bin\Debug\BTTH04_04.pdb
+F:\GĐ2-2022\Winform\winform1\BTTH04_04\obj\Debug\BTTH04_04.csproj.AssemblyReference.cache
+F:\GĐ2-2022\Winform\winform1\BTTH04_04\obj\Debug\BTTH04_04.csproj.SuggestedBindingRedirects.cache
+F:\GĐ2-2022\Winform\winform1\BTTH04_04\obj\Debug\BTTH04_04.Form1.resources
+F:\GĐ2-2022\Winform\winform1\BTTH04_04\obj\Debug\BTTH04_04.Properties.Resources.resources
+F:\GĐ2-2022\Winform\winform1\BTTH04_04\obj\Debug\BTTH04_04.csproj.GenerateResource.cache
+F:\GĐ2-2022\Winform\winform1\BTTH04_04\obj\Debug\BTTH04_04.csproj.CoreCompileInputs.cache
+F:\GĐ2-2022\Winform\winform1\BTTH04_04\obj\Debug\BTTH04_04.exe
+F:\GĐ2-2022\Winform\winform1\BTTH04_04\obj\Debug\BTTH04_04.pdb

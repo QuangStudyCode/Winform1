@@ -1,0 +1,11 @@
+F:\GĐ2-2022\Winform\winform1\Caculator\bin\Debug\Caculator.exe.config
+F:\GĐ2-2022\Winform\winform1\Caculator\bin\Debug\Caculator.exe
+F:\GĐ2-2022\Winform\winform1\Caculator\bin\Debug\Caculator.pdb
+F:\GĐ2-2022\Winform\winform1\Caculator\obj\Debug\Caculator.csproj.AssemblyReference.cache
+F:\GĐ2-2022\Winform\winform1\Caculator\obj\Debug\Caculator.csproj.SuggestedBindingRedirects.cache
+F:\GĐ2-2022\Winform\winform1\Caculator\obj\Debug\Caculator.Form1.resources
+F:\GĐ2-2022\Winform\winform1\Caculator\obj\Debug\Caculator.Properties.Resources.resources
+F:\GĐ2-2022\Winform\winform1\Caculator\obj\Debug\Caculator.csproj.GenerateResource.cache
+F:\GĐ2-2022\Winform\winform1\Caculator\obj\Debug\Caculator.csproj.CoreCompileInputs.cache
+F:\GĐ2-2022\Winform\winform1\Caculator\obj\Debug\Caculator.exe
+F:\GĐ2-2022\Winform\winform1\Caculator\obj\Debug\Caculator.pdb

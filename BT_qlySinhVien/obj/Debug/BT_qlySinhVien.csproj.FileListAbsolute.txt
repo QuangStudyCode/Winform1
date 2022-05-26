@@ -1,0 +1,11 @@
+F:\GĐ2-2022\Winform\winform1\BT_qlySinhVien\bin\Debug\BT_qlySinhVien.exe.config
+F:\GĐ2-2022\Winform\winform1\BT_qlySinhVien\bin\Debug\BT_qlySinhVien.exe
+F:\GĐ2-2022\Winform\winform1\BT_qlySinhVien\bin\Debug\BT_qlySinhVien.pdb
+F:\GĐ2-2022\Winform\winform1\BT_qlySinhVien\obj\Debug\BT_qlySinhVien.csproj.AssemblyReference.cache
+F:\GĐ2-2022\Winform\winform1\BT_qlySinhVien\obj\Debug\BT_qlySinhVien.csproj.SuggestedBindingRedirects.cache
+F:\GĐ2-2022\Winform\winform1\BT_qlySinhVien\obj\Debug\BT_qlySinhVien.Form1.resources
+F:\GĐ2-2022\Winform\winform1\BT_qlySinhVien\obj\Debug\BT_qlySinhVien.Properties.Resources.resources
+F:\GĐ2-2022\Winform\winform1\BT_qlySinhVien\obj\Debug\BT_qlySinhVien.csproj.GenerateResource.cache
+F:\GĐ2-2022\Winform\winform1\BT_qlySinhVien\obj\Debug\BT_qlySinhVien.csproj.CoreCompileInputs.cache
+F:\GĐ2-2022\Winform\winform1\BT_qlySinhVien\obj\Debug\BT_qlySinhVien.exe
+F:\GĐ2-2022\Winform\winform1\BT_qlySinhVien\obj\Debug\BT_qlySinhVien.pdb

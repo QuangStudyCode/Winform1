@@ -1,0 +1,11 @@
+F:\GĐ2-2022\Winform\winform1\test02\bin\Debug\test02.exe.config
+F:\GĐ2-2022\Winform\winform1\test02\bin\Debug\test02.exe
+F:\GĐ2-2022\Winform\winform1\test02\bin\Debug\test02.pdb
+F:\GĐ2-2022\Winform\winform1\test02\obj\Debug\test02.csproj.AssemblyReference.cache
+F:\GĐ2-2022\Winform\winform1\test02\obj\Debug\test02.csproj.SuggestedBindingRedirects.cache
+F:\GĐ2-2022\Winform\winform1\test02\obj\Debug\test02.Form1.resources
+F:\GĐ2-2022\Winform\winform1\test02\obj\Debug\test02.Properties.Resources.resources
+F:\GĐ2-2022\Winform\winform1\test02\obj\Debug\test02.csproj.GenerateResource.cache
+F:\GĐ2-2022\Winform\winform1\test02\obj\Debug\test02.csproj.CoreCompileInputs.cache
+F:\GĐ2-2022\Winform\winform1\test02\obj\Debug\test02.exe
+F:\GĐ2-2022\Winform\winform1\test02\obj\Debug\test02.pdb

@@ -1,0 +1,11 @@
+F:\GĐ2-2022\Winform\winform1\B3_Slide\bin\Debug\B3_Slide.exe.config
+F:\GĐ2-2022\Winform\winform1\B3_Slide\bin\Debug\B3_Slide.exe
+F:\GĐ2-2022\Winform\winform1\B3_Slide\bin\Debug\B3_Slide.pdb
+F:\GĐ2-2022\Winform\winform1\B3_Slide\obj\Debug\B3_Slide.csproj.AssemblyReference.cache
+F:\GĐ2-2022\Winform\winform1\B3_Slide\obj\Debug\B3_Slide.csproj.SuggestedBindingRedirects.cache
+F:\GĐ2-2022\Winform\winform1\B3_Slide\obj\Debug\B3_Slide.Form1.resources
+F:\GĐ2-2022\Winform\winform1\B3_Slide\obj\Debug\B3_Slide.Properties.Resources.resources
+F:\GĐ2-2022\Winform\winform1\B3_Slide\obj\Debug\B3_Slide.csproj.GenerateResource.cache
+F:\GĐ2-2022\Winform\winform1\B3_Slide\obj\Debug\B3_Slide.csproj.CoreCompileInputs.cache
+F:\GĐ2-2022\Winform\winform1\B3_Slide\obj\Debug\B3_Slide.exe
+F:\GĐ2-2022\Winform\winform1\B3_Slide\obj\Debug\B3_Slide.pdb
